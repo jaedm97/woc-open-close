@@ -1,14 +1,5 @@
 === Woocommerce Open Close ===	
-	Contributors: jaedm97,pluginbazar
-	Donate link: https://www.pluginbazar.net/product/offer-a-cup-of-coffee/
-	Tags: woocommerce, woocommerce open close, opening-closing-time,opening-time,closing-time,wordpress,web-shop-management,restrict-add-to-cart,wordpress-plugin,woc-open-close,maintain scheduling in woocommerce,maintain scheduling in website, maintain scheduling in webshop, opening, closing, opening shop, opening website, opening woocommerce, closing shop, closing website, closing woocommerce, business hour, business time
-	Requires at least: 3.0
-	Tested up to: 5.0.2
-	Stable tag: 3.0.2
-	Requires PHP: 5.6
-	Text Domain: woc-open-close
-	License: GPLv2 or later
-	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: woocommerce, woocommerce open close, opening-closing-time,opening-time,closing-time,wordpress,web-shop-management,restrict-add-to-cart,wordpress-plugin,woc-open-close,maintain scheduling in woocommerce,maintain scheduling in website, maintain scheduling in webshop, opening, closing, opening shop, opening website, opening woocommerce, closing shop, closing website, closing woocommerce, business hour, business time
 
 Maintain Business hour for your WooCommerce Shop. Let your customers know about business schedules and restrict them from placing new orders while Store is Closed.
 
@@ -25,7 +16,7 @@ NO MORE BUSINESS CONFUSION
 WooCommerce Open Close comes with a complete business hour/schedule management, completely hassle free.
 
 
-### [GET WOOCOMMERCE OPEN CLOSE PREMIUM](https://pluginbazar.com/plugin/woocommerce-open-close/?r=wordpress.org)
+### [GET WOOCOMMERCE OPEN CLOSE PREMIUM](https://pluginbazar.com/plugin/woocommerce-open-close/?r=github.com)
 
 `
 	https://demo.pluginbazar.com/woocommerce-open-close/
@@ -43,31 +34,6 @@ WooCommerce Open Close comes with a complete business hour/schedule management, 
 ### PRO Feature
 * No Order when Shop is Closed
 * Allow / Disallow Specific Products to Bypass Schedules
-
-== Video Help ==
-### GUIDE 1
-<iframe src="https://www.youtube.com/embed/mcRApxc7Eks?rel=0&amp;controls=0&amp;showinfo=0" width="460" height="258" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-### GUIDE 2
-<iframe src="https://www.youtube.com/embed/-JtRwecDPWI?rel=0&amp;controls=0&amp;showinfo=0" width="460" height="258" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
-
-== Installation ==
-
-1. Upload Woocommerce Open Close to the /wp-content/plugins/ directory
-2. Activate the plugin through the Plugins menu in WordPress
-3. Now select from the Admin menu Woocommerce open close and edit your settings.
-4. If you want to get all the features then Click Buy in the bottom of the page.
-
-
-== Screenshots ==
-
-1. Popup Notification.png
-2. Schedules Edit Page.png
-3. All Schedules.png
-4. Display Schedule.png
-5. Settings Page.png
 
 
 == Changelog ==
