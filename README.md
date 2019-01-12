@@ -1,9 +1,8 @@
-=== Woocommerce Open Close ===	
-Tags: woocommerce, woocommerce open close, opening-closing-time,opening-time,closing-time,wordpress,web-shop-management,restrict-add-to-cart,wordpress-plugin,woc-open-close,maintain scheduling in woocommerce,maintain scheduling in website, maintain scheduling in webshop, opening, closing, opening shop, opening website, opening woocommerce, closing shop, closing website, closing woocommerce, business hour, business time
+# Woocommerce Open Close
 
 Maintain Business hour for your WooCommerce Shop. Let your customers know about business schedules and restrict them from placing new orders while Store is Closed.
 
-== Description ==
+### Description
 
 Maintain Business hour for your WooCommerce Shop. Let your customers know about business schedules and restrict them from placing new orders while Store is Closed.
 
@@ -18,9 +17,9 @@ WooCommerce Open Close comes with a complete business hour/schedule management, 
 
 ### [GET WOOCOMMERCE OPEN CLOSE PREMIUM](https://pluginbazar.com/plugin/woocommerce-open-close/?r=github.com)
 
-`
-	https://demo.pluginbazar.com/woocommerce-open-close/
-	
+https://demo.pluginbazar.com/woocommerce-open-close/
+
+`	
 	Username: demo-woc
 	Password: pluginbazar
 `
